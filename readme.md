@@ -5,3 +5,6 @@
 
 - `add(a, b)` : a와 b를 더한다.
 - `subtract(a, b)` : a에서 b를 뺀다.
+- `multiply(a, b)` : a와 b를 곱한다.
+
+
