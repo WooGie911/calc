@@ -18,9 +18,15 @@ function testAdd() {
   console.log(add(1, 2) === 2);
 }
 
-function mul (a, b){
-  return a*b;
+function testSubtract() {
+  console.log(subtract(3, 1) === 2);
 }
-function div (a, b){
-  return a/b;
+
+function testMultiply() {
+  console.log(multiply(2, 3) === 6);
 }
+
+function testDivide() {
+  console.log(divide(3, 3) === 1);
+}
+
